@@ -1,0 +1,67 @@
+head {
+    text-align: center;
+    background-color: white;
+}
+
+body {
+    text-align: center;
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main {
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+footer {
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.subheading {
+    padding: 0.5em 0.5em;
+    text-align: center;
+    color:rgb(13, 73, 73);
+    background-color: rgb(242, 236, 218);
+    border-top: 1px solid orange;
+    font-size: medium;
+}
+
+.foodphoto {
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px #dedede;
+    width: 100%;
+}
+
+.captionphoto {
+    color: #aeaaaa;
+}
+
+.paragraph {
+    text-align: left;
+}
+
+.featured {
+    color:rgb(183, 66, 8);
+    text-align: left;
+    border-left: 0.5px solid orange;
+}
+
+.titleingredients {
+    text-align: left;
+    background-color: white;
+    border-bottom: 0.5px solid lightblue;
+    padding: 0.5em 0.5em;
+    font-size: 1.5em;
+
+}
+
+.bottom {
+    text-align: left;
+}
